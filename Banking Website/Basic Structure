@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page | APJP Bank</title>
+   
+
+
+    <style>
+*{
+    margin: 10px;
+   box-sizing: 10px;
+}
+ 
+
+header{
+    background-color:rgb(44, 167, 167);
+    padding: 5px;
+    border: black;
+    border-style: groove;
+    border-spacing: 2px;
+}
+header h1 {
+    color: cornsilk;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-color: darkgray;
+    padding: 10px;
+    margin: 5px;
+    border: darkslategray;
+    border width: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>APJP Bank</h1>
+      <h2>With you,For you,By you</h2>
+    </header>
+    <main>
+      <nav>
+        <a href="#">Home</a>|
+        <a href="#">Services</a>|
+        <a href="#">Mobile Banking</a>|
+        <a href="#">FAQ</a>|
+        <a href="#">Corporate Website</a>|
+        <a href="apply.html">Apply for APJP accounts</a>|
+        <a href="#">Videos</a>|
+        <a href="#">Loans</a>|
+        <a href="#">Contact us</a>
+      </nav>
+
+      <section>
+        <h2>About APJP</h2>
+        <div>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi id
+          doloremque nisi debitis nesciunt corporis, asperiores, dicta ea dolore
+          voluptas, eaque vel quidem iusto! Esse possimus nostrum eius fuga
+          voluptatem!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam,
+          cumque, architecto eos at numquam quibusdam illo deserunt harum velit
+          veniam quisquam dolores illum nulla sint totam a enim odio repellat!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+          dolorum nulla culpa illum nam? Dolor aut nemo vero dolore dignissimos
+          sed officia ipsum reprehenderit sint odit necessitatibus tempore quo
+          voluptate iste neque sunt nulla dicta obcaecati distinctio nobis
+          impedit illo, nihil tenetur? Suscipit est sint, quaerat perspiciatis
+          facilis recusandae, officia, odit quibusdam reiciendis explicabo
+          perferendis praesentium voluptate delectus tenetur asperiores odio
+          voluptatibus alias? Quaerat error, adipisci hic laborum quam cum nisi
+          provident culpa minima tempora ullam perspiciatis labore numquam
+          aliquam impedit, molestiae sint incidunt delectus, molestias vitae
+          voluptatum autem facere ratione? Ipsa, est quisquam! Neque suscipit
+          eius quia commodi, ab nulla. Repudiandae possimus ut perspiciatis
+          ducimus ipsa accusantium officiis quod voluptas adipisci, laboriosam
+          modi labore hic rem eos distinctio vitae illum atque dolorem minima
+          corporis! Non explicabo omnis labore laborum optio eius totam fuga
+          voluptates! Porro facilis ad aliquid, dicta sed soluta exercitationem
+          consectetur eaque. Possimus incidunt voluptatibus dolorum ex, culpa
+          vitae at, dicta, corrupti recusandae veniam enim officiis placeat fuga
+          necessitatibus deleniti officia illo odit? Ipsum accusantium qui vero
+          nihil velit consequatur, inventore ad nostrum incidunt perferendis
+          dignissimos quaerat iusto sunt ex. Veritatis impedit sit voluptatibus
+          eos facere suscipit doloribus iusto officiis? Ducimus ad incidunt
+          nulla dolorem amet, a mollitia esse voluptatum ab cupiditate earum
+          nihil et, quod aut blanditiis modi sunt eaque saepe vitae fuga
+          temporibus illum aspernatur deleniti magni? Ut earum quae illo,
+          praesentium iste adipisci debitis laudantium commodi quibusdam
+          dolorum! Reprehenderit quasi sit, provident incidunt id officiis!
+          Dolores culpa consequuntur earum unde, beatae quis voluptatum, atque
+          distinctio aliquam rerum soluta incidunt aliquid possimus magni
+          deserunt! Molestias expedita tempora quo. Architecto alias neque
+          molestias iste omnis earum, nihil quas quam quibusdam voluptatum
+          laboriosam inventore recusandae cupiditaluta
+          incidunt mollitia placeat error corrupti, cum optio harum? Dolores qui
+          consequatur numquam voluptate provident quia nisi labore fuga ex
+          voluptas quaerat perferendis incidunt id nihil molestiae blanditiis
+          minima debitis, laborum quibusdam accusamus optio non temporibus
+          libero. Tempora, hic.
+        </p>
+    </div>
+      </section>
+https
+      <section><img id="img" class="style-scope yt-img-shadow" alt="" src="#" width="80"></section>
+    </main>
+  </body>
+</html>
