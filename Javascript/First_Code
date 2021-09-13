@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework-Javascript</title>
+    <h1>Hello guys!</h1>
+    <script>
+        function convertCtoF(temp){
+            
+           var temp;
+            temp=((temp*9)/5 )+32;
+            return temp;
+        }
+        var temp;
+        temp=45;
+        console.log("The temperature "+ temp +" degree Celsius is equal to " + convertCtoF(45) + " degree in Fahrenheit");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
