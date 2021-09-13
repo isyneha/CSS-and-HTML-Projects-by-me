@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mega Project by Sneha Agarwal |Home</title>
+    <link rel="stylesheet" href="style.css" >
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to my World</h1>
+    </header>
+
+    <nav>
+      <a href="#">Home</a>
+      <a href="https://isynaahaa.blogspot.com">Blogging Page</a>
+      <a href="#">Certifications and Awards</a>
+      <a href="#">Experience</a>
+      <a href="tributepage.html">Contact Me</a>
+    </nav>
+
+    <main>
+      <section>
+        <h2>Musings of a nineteen year old girl!</h2>
+        Sneha Agarwal
+        <pre>
+Hello!
+                Ich bin Sneha.
+                              I am Sneha.
+                I am a first year undergraduate in Chemical Engineering from Harcourt Butler Technical University.
+            </pre
+        >
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PtuZXcR_Vxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4P0IqjABfvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wgF9ei-nG3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br><br><br>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y-anRL1jU_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A4PvCytmplw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nJZlncZVC74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </section>
+    </main>
+    <footer>
+        <a href="https://www.linkedin.com/in/sneha-agarwal-217a55200">Linkedin</a>
+        <a href="https://www.instagram.com/synehahaha/">Instagram</a>
+        <a href="https://github.com/isyneha">Github</a>
+        <a href="#">Hackerrank</a>
+        <a href="#">Codechef</a>
+        <a href="#">&copy; 2021 | Sneha Agarwal</a>
+    </footer>
+  </body>
+</html>
