@@ -1,0 +1,41 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width==1, initial-scale=1.0">
+    <title>Day1 Aboutmyself</title>
+</head>
+<body bgcolor="yellow">
+    
+    <header>
+
+        
+        <h1>Musings of a nineteen year old girl! </h1>
+          Sneha Agarwal
+    
+    </header>
+    <p>A girl with fire in her belly to make her dreams come true</p>
+    <br>
+    <hr>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3o89l19KoDWHu1-01Yw8NKmh30UVvzKy1Gg&usqp=CAU">
+    <pre>Hello!
+        Ich bin Sneha.
+                      I am Sneha.
+        I am a first year undergraduate in Chemical Engineering from Harcourt Butler Technical University.
+    </pre>
+<br>
+<h2>What are my Qualities?</h2>
+<ol>
+    <li>I am sincere.</li>
+    <li>I am determined.</li>
+    <li> I am focused</li>
+    <li>I am confident.</li>
+    <li>I am a jolly natured girl.</li>
+</ol>
+
+<a href="https://www.linkedin.com/in/sneha-agarwal-217a55200"> You can connect with me through Linkedin. </a>
+<footer>Meet you with another exciting stuffs soon.</footer>
+
+</body>
+</html>
